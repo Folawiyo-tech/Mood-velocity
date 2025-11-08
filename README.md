@@ -19,7 +19,7 @@ Most mood tracking tools miss the big picture:
 
 ---
 
-### ✨ Our Solution: The Relapse Velocity Score
+### Our Solution: The Relapse Velocity Score
 
 The RVM addresses this gap by monitoring the **speed and intensity** with which an individual's emotional state is shifting their **Relapse Velocity**.
 
@@ -44,7 +44,7 @@ The output is designed to **soothe, not correct**, fostering a compassionate and
 
 ---
 
-## 🛠️ Key Features
+## Key Features
 
 | Feature | Description |
 | :--- | :--- |
@@ -53,7 +53,7 @@ The output is designed to **soothe, not correct**, fostering a compassionate and
 | **Micro-Relapse Logger**| Simple input tools to quickly log daily sleep, activity, spending, and social habits. |
 | **Adaptive Thresholds** | Personalized risk settings that learn from the user's history, ensuring nudges are always relevant. |
 
-### 💻 Technologies & Stack (Non-Technical Summary)
+### Technologies & Stack (Non-Technical Summary)
 
 The RVM runs on a secure, modular platform designed for individual privacy:
 

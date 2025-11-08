@@ -1,4 +1,5 @@
 # Relapse Velocity Monitor (RVM)
+![relapse](https://github.com/user-attachments/assets/1c3449d0-79c1-4e6a-ab91-8c74800399b0)
 
 ## Predictive Mood & Cycle Insights: Transforming Self-Awareness into Prevention
 
